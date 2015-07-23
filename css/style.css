@@ -1,11 +1,17 @@
 body{
 	color: #1E201F;
 	font-family: "roboto";
-	background-image: url("../images/grid.jpg");
+	background-color: #aaaaaa;
 }
+
 h1{
+	text-align: right;
+	color: white;
 	font-family: oswald;
+	text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+	text-align: center;
 	font-size: 48px;
+	padding-top: 70px;
 }
 
 a{
@@ -50,11 +56,6 @@ color:#aaaaaa;
 	color: white;
 }
 
-#contact{
-	border: 2px solid green;
-	margin: 10px;
-	padding-right: 20px
-}
 
 #loc{
 	border: 2px solid black;
@@ -91,4 +92,69 @@ color:#aaaaaa;
 
 #wrapper p{
 	font-size: 48px;
+}
+
+#wrapperr{
+	background-image: url(../images/gosser.jpg);
+	height:660px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px;
+	color: white;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+#quisommesnous{
+	text-align: center;
+	font-family: lobster ;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 18px;
+	background-color: #F0F0F0;
+}
+
+#wrappercontact{
+	background-image: url(../images/typefigaret.jpg);
+	height: 660px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 150px;
+	color: white;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+
+.contact{
+	text-align: center;
+	font-family: lobster;
+	font-size: 20px;
+	background-color: #F0F0F0;
+}
+
+#textcontact{
+	text-align: right;
+	color: white;
+	font-family: oswald;
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+	text-align: center;
+	font-size: 48px;
+	padding-top: 140px;
+}
+
+#textquisommesnous{
+	text-align: right;
+	color: white;
+	font-family: oswald;
+	text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+	text-align: center;
+	font-size: 48px;
+	padding-top: 140px;
+}
+
+#carte{
+
 }
