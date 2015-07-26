@@ -73,8 +73,25 @@ color:#aaaaaa;
 	background-color: black;
 }
 
+#navbarc{
+	color: yellow;
+	padding-left: 750px
+}
+
+#navbars21{
+}
+
 #navbar a:hover{
 	color: white;
+}
+
+#navbarqui{
+}
+
+#navbarloc{
+}
+
+#navbarat{
 }
 
 #wrapper{
@@ -142,7 +159,7 @@ color:#aaaaaa;
 	font-family: oswald;
 	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 	text-align: center;
-	font-size: 48px;
+	font-size: 72px;
 	padding-top: 140px;
 }
 
@@ -152,7 +169,7 @@ color:#aaaaaa;
 	font-family: oswald;
 	text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
 	text-align: center;
-	font-size: 48px;
+	font-size: 72px;
 	padding-top: 140px;
 }
 
