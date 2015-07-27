@@ -75,10 +75,11 @@ color:#aaaaaa;
 
 #navbarc{
 	color: yellow;
-	padding-left: 750px
+	padding-left: 340px
 }
 
 #navbars21{
+	padding-left: 50px;
 }
 
 #navbar a:hover{
@@ -86,12 +87,15 @@ color:#aaaaaa;
 }
 
 #navbarqui{
+	padding-left: 310px;
 }
 
 #navbarloc{
+	padding-left: 50px;
 }
 
 #navbarat{
+	padding-left: 50px;
 }
 
 #wrapper{
